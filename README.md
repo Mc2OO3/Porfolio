@@ -16,7 +16,6 @@ Puedes listar aquí los cursos que creas relebantes destacar en testing y TI. Po
   Crear un proyecto ágil en Jira, configurar y administre un tablero Kanban.
   
 ## Herramientas
-Puedes comentar algunas de las herramientas que manejas vinculadas al testing de software. Por ejemplo:
 * Testlink
 * Jira
 * MantisBT
