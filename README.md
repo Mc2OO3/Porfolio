@@ -24,6 +24,6 @@ Puedes listar aquí los cursos que creas relebantes destacar en testing y TI. Po
 ## Mi trabajo
 
 * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
-  * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1YuzuQBtpkicx9QjoNPeRafTh5SX-sE8i)
-  * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/1Y2IfX8plkKe9kDrtv0B0tfbvMQZhV7Pv)
-  * [Informe de pruebas](https://docs.google.com/document/d/1VP4W9pzRynxyccHLQNZ5z3NKUZSpJk4g)
+  * [Casos de Prueba](https://docs.google.com/spreadsheets/d/192D2YpckONtU0YRRNA6Viy3DYdH6wevG/edit?usp=sharing&ouid=102548740641597392023&rtpof=true&sd=true)
+  * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/1r_ODFbLTJ-V5GhQ067tQQhVqbd8m36Fi/edit?usp=sharing&ouid=102548740641597392023&rtpof=true&sd=true)
+  * [Informe de pruebas](https://docs.google.com/document/d/10WKYLKR7oyLfi1_MztmzrwhimxZ41LWE/edit?usp=sharing&ouid=102548740641597392023&rtpof=true&sd=true)
