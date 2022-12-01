@@ -1,12 +1,11 @@
 # Portfolio
 ## Sobre mí
-Sou un estudiante de ingeniería, amante de la computación y la informática. Me considero una persona que siempre está
+Soy un estudiante de ingeniería, amante de la computación y la informática. Me considero una persona que siempre está
 dispuesta a mejorar y busca superarse. Me gustaría llevar a la práctica los conocimientos que he adquirido, por
 ejemplo la elaboración y ejecución de casos de prueba, reportes de incidentes, SQL y las distintas herramientas
 como Jira o Mantis.
 
 ## Cursos
-Puedes listar aquí los cursos que creas relebantes destacar en testing y TI. Por ejemplo:
 * **Tester de Software - Jóvenes a Programar (230hs):**
 
   Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
