@@ -1,9 +1,12 @@
-# Portfolio
+# Portfolio 
 ## Sobre mí
 Soy un estudiante de ingeniería, amante de la computación y la informática. Me considero una persona que siempre está
 dispuesta a mejorar y busca superarse. Me gustaría llevar a la práctica los conocimientos que he adquirido, por
 ejemplo la elaboración y ejecución de casos de prueba, reportes de incidentes, SQL y las distintas herramientas
-como Jira o Mantis.
+como Jira o Mantis
+
+## [Mi CV](https://drive.google.com/file/d/1IpgGaXRUlcXYaiUuZu0kzkeSqikdgE-F/view?usp=sharing)
+
 
 ## Cursos
 * **Tester de Software - Jóvenes a Programar (230hs):**
